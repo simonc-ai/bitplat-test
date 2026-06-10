@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T18:27:25Z",
+  "generated_at": "2026-06-10T19:27:58Z",
   "posts": [
     {
       "path": "/api/wallet-balances",
@@ -8,34 +8,34 @@
           {
             "wallet_asset_token": "07a8x9v8pp0rn00bj2mb21j49",
             "wallet_type": "hot",
-            "confirmed_btc": 780.052576,
-            "usd_value": 48033688.680000,
-            "btc_usd_price": 61845.570000,
-            "event_time": "2026-06-10T18:20:02.598000Z"
+            "confirmed_btc": 767.783565,
+            "usd_value": 47263963.160000,
+            "btc_usd_price": 61657.180000,
+            "event_time": "2026-06-10T19:25:01.700000Z"
           },
           {
             "wallet_asset_token": "s0p0n29kjv4cn2n3qmnchfs3m",
             "wallet_type": "gateway",
-            "confirmed_btc": 12.322959,
-            "usd_value": 465684.690000,
-            "btc_usd_price": 61845.570000,
-            "event_time": "2026-06-10T18:20:02.550000Z"
+            "confirmed_btc": 12.311345,
+            "usd_value": 463540.130000,
+            "btc_usd_price": 61657.180000,
+            "event_time": "2026-06-10T19:25:01.655000Z"
           },
           {
             "wallet_asset_token": "nbf7jn3ns4d0m0srx3fb3p8ex",
             "wallet_type": "lightning",
-            "confirmed_btc": 42.956350,
-            "usd_value": 2656254.870000,
-            "btc_usd_price": 61845.570000,
-            "event_time": "2026-06-10T18:20:02.534000Z"
+            "confirmed_btc": 42.456101,
+            "usd_value": 2617479.600000,
+            "btc_usd_price": 61657.180000,
+            "event_time": "2026-06-10T19:25:01.640000Z"
           },
           {
             "wallet_asset_token": "xy3w50s597vsrkbjvsqkzt53w",
             "wallet_type": "cold",
             "confirmed_btc": 19357.122972,
-            "usd_value": 1197152303.760000,
-            "btc_usd_price": 61845.570000,
-            "event_time": "2026-06-10T18:20:02.661000Z"
+            "usd_value": 1193505615.360000,
+            "btc_usd_price": 61657.180000,
+            "event_time": "2026-06-10T19:25:01.761000Z"
           }
         ]
       }
