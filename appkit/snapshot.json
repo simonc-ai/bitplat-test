@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T13:34:00Z",
+  "generated_at": "2026-06-10T17:35:00Z",
   "posts": [
     {
       "path": "/api/wallet-balances",
@@ -8,34 +8,34 @@
           {
             "wallet_asset_token": "07a8x9v8pp0rn00bj2mb21j49",
             "wallet_type": "hot",
-            "confirmed_btc": 999.999999,
-            "usd_value": 62499999.94,
-            "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:34:00Z"
+            "confirmed_btc": 793.245263,
+            "usd_value": 48461972.67,
+            "btc_usd_price": 61103.04,
+            "event_time": "2026-06-10T17:35:00Z"
           },
           {
             "wallet_asset_token": "s0p0n29kjv4cn2n3qmnchfs3m",
             "wallet_type": "gateway",
-            "confirmed_btc": 20.000000,
-            "usd_value": 1250000.00,
-            "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:34:00Z"
+            "confirmed_btc": 12.338866,
+            "usd_value": 466178.10,
+            "btc_usd_price": 61103.04,
+            "event_time": "2026-06-10T17:35:00Z"
           },
           {
             "wallet_asset_token": "nbf7jn3ns4d0m0srx3fb3p8ex",
             "wallet_type": "lightning",
-            "confirmed_btc": 50.500000,
-            "usd_value": 3156250.00,
-            "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:34:00Z"
+            "confirmed_btc": 43.799752,
+            "usd_value": 2676660.42,
+            "btc_usd_price": 61103.04,
+            "event_time": "2026-06-10T17:35:00Z"
           },
           {
             "wallet_asset_token": "xy3w50s597vsrkbjvsqkzt53w",
             "wallet_type": "cold",
-            "confirmed_btc": 21000.000000,
-            "usd_value": 1312500000.00,
-            "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:34:00Z"
+            "confirmed_btc": 19357.122972,
+            "usd_value": 1196358081.00,
+            "btc_usd_price": 61103.04,
+            "event_time": "2026-06-10T17:35:00Z"
           }
         ]
       }
