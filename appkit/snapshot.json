@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T13:26:00Z",
+  "generated_at": "2026-06-10T13:34:00Z",
   "posts": [
     {
       "path": "/api/wallet-balances",
@@ -8,34 +8,34 @@
           {
             "wallet_asset_token": "07a8x9v8pp0rn00bj2mb21j49",
             "wallet_type": "hot",
-            "confirmed_btc": 888.888888,
-            "usd_value": 55555555.55,
+            "confirmed_btc": 999.999999,
+            "usd_value": 62499999.94,
             "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:26:00Z"
+            "event_time": "2026-06-10T13:34:00Z"
           },
           {
             "wallet_asset_token": "s0p0n29kjv4cn2n3qmnchfs3m",
             "wallet_type": "gateway",
-            "confirmed_btc": 15.123456,
-            "usd_value": 945216.00,
+            "confirmed_btc": 20.000000,
+            "usd_value": 1250000.00,
             "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:26:00Z"
+            "event_time": "2026-06-10T13:34:00Z"
           },
           {
             "wallet_asset_token": "nbf7jn3ns4d0m0srx3fb3p8ex",
             "wallet_type": "lightning",
-            "confirmed_btc": 42.424242,
-            "usd_value": 2651515.13,
+            "confirmed_btc": 50.500000,
+            "usd_value": 3156250.00,
             "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:26:00Z"
+            "event_time": "2026-06-10T13:34:00Z"
           },
           {
             "wallet_asset_token": "xy3w50s597vsrkbjvsqkzt53w",
             "wallet_type": "cold",
-            "confirmed_btc": 20000.000000,
-            "usd_value": 1250000000.00,
+            "confirmed_btc": 21000.000000,
+            "usd_value": 1312500000.00,
             "btc_usd_price": 62500.00,
-            "event_time": "2026-06-10T13:26:00Z"
+            "event_time": "2026-06-10T13:34:00Z"
           }
         ]
       }
