@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T17:50:00Z",
+  "generated_at": "2026-06-10T18:27:25Z",
   "posts": [
     {
       "path": "/api/wallet-balances",
@@ -8,34 +8,34 @@
           {
             "wallet_asset_token": "07a8x9v8pp0rn00bj2mb21j49",
             "wallet_type": "hot",
-            "confirmed_btc": 793.246202,
-            "usd_value": 48101051.36,
-            "btc_usd_price": 61724.28,
-            "event_time": "2026-06-10T17:45:01.209000Z"
+            "confirmed_btc": 780.052576,
+            "usd_value": 48033688.680000,
+            "btc_usd_price": 61845.570000,
+            "event_time": "2026-06-10T18:20:02.598000Z"
           },
           {
             "wallet_asset_token": "s0p0n29kjv4cn2n3qmnchfs3m",
             "wallet_type": "gateway",
-            "confirmed_btc": 12.338866,
-            "usd_value": 465392.46,
-            "btc_usd_price": 61724.28,
-            "event_time": "2026-06-10T17:45:01.163000Z"
+            "confirmed_btc": 12.322959,
+            "usd_value": 465684.690000,
+            "btc_usd_price": 61845.570000,
+            "event_time": "2026-06-10T18:20:02.550000Z"
           },
           {
             "wallet_asset_token": "nbf7jn3ns4d0m0srx3fb3p8ex",
             "wallet_type": "lightning",
-            "confirmed_btc": 43.799752,
-            "usd_value": 2672358.61,
-            "btc_usd_price": 61724.28,
-            "event_time": "2026-06-10T17:45:01.148000Z"
+            "confirmed_btc": 42.956350,
+            "usd_value": 2656254.870000,
+            "btc_usd_price": 61845.570000,
+            "event_time": "2026-06-10T18:20:02.534000Z"
           },
           {
             "wallet_asset_token": "xy3w50s597vsrkbjvsqkzt53w",
             "wallet_type": "cold",
             "confirmed_btc": 19357.122972,
-            "usd_value": 1194804478.31,
-            "btc_usd_price": 61724.28,
-            "event_time": "2026-06-10T17:45:01.271000Z"
+            "usd_value": 1197152303.760000,
+            "btc_usd_price": 61845.570000,
+            "event_time": "2026-06-10T18:20:02.661000Z"
           }
         ]
       }
